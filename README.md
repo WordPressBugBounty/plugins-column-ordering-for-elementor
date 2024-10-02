@@ -1,0 +1,1 @@
+# plugins-column-ordering-for-elementor
